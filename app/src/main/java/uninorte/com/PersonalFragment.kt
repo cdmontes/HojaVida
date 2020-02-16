@@ -11,6 +11,7 @@ import uninorte.com.model.UserPersonalModel
 
 /**
  * A simple [Fragment] subclass.
+ * -----------------------------
  */
 class PersonalFragment : Fragment() {
 
